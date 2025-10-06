@@ -37,18 +37,50 @@ Nemendakerfi fyrir námsmat
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+BO-1: Hækka meðalánægju notenda af kerfinu um 20%
+
+- Scale: 1-5 ánægjukvarði (t.d. úr notendakönnun)
+- Meter: Meðaltal úr notendakönnun _eftir_ útgáfu
+- Past (Baseline): 3.5
+- Goal: 4.2
+- Stretch: 4.5
+
+BO-2: Fækka fjölda síða sem nemandi þarf til að halda utan um einkunnir niður í tvær fyrir alla áfanga
+
+- Scale: Fjöldi síða sem notandi þarf til að sjá allar einkunnir (Canvas, Gradescope o.fl.)
+- Meter: Notendaprófanir og flæðigreining í Canvas
+- Past (Baseline): meðaltal tvær eða fleiri
+- Goal: 2 síður
+- Stretch: 1 síða (aðal námskeiðs síða)
+
+BO-3: Auka virkni á aðal námskeiðssíðu um 5% innan við sex mánuði eftir útgáfu
+
+- Scale: Hlutfall virkra notenda yfir ákveðið tímabil
+- Meter: Notendagögn úr vefgreiningu
+- Past (Baseline): 80%
+- Goal: 84%
+- Stretch: 87%
+
+BO-4: Minnka stress nemenda hvað óvissu í námsframvindu varðar um 15%
+
+- Scale: 1-10 kvarði (t.d. úr sjálfsmati frá spurningakönnun)
+- Meter: Meðaltal stiga í spurningu s.s. "Hversu vel heldurðu að þú vitir hvernig námsframvinda þín gengur þessa önn?"
+- Past (Baseline): 6.0 / 10 (f. meðalstress)
+- Goal: 5.1 / 10
+- Stretch: 4.5 / 10
 
 ### 1.4 Árangurs mælikvarðar
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+Námsárangurskerfið er upplýsingamiðlunarkerfi fyrir nemendur og prófessora sem mun gefa þeima einfaldan aðgang og skýra framsetningu á skólagögnum. 
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
+Fyrir nemendur mun kerfið sýna einkunnir á gagnlegum formum: meðaleinkunn, staðalfrávik, hæsta og lægsta einkunn, algildi á einkunn varðandi lokaeinkunn ásamt gröfum fyrir einkunnir yfir önnina skipt eftir flokkum. Kerfið mun einnig veita nemendum spár fyrir verkefnaeinkunn og reiknar út frá henni og öðrum einkunum sem áfangi kann að bjóða upp á (s.s. próf) hver lokaeinkunn mun vera fyrir mismunandi lokaprófseinkunnir. Kerfið heldur einnig utan um mætingu á einum stað og veitir sjálfkrafa viðvörun ef nemandi er í hættu á að tapa próftökurétt. Þetta mun auðvelda þeim um að halda utan um námið, skipuleggja sig og vita nákvæmlega hvað þeir þurfa að gera til að ná tilteknum áföngum. Einnig munu færri nemendur vera í hættu á að missa próftökurétt þegar þeir fá betri stað til að halda utan um hann.
+
+Prófessorar munu hafa aðgang að sömu gögnum og nemendur nema þá sérstaklega fyrir fjöldann. Gögn um einkunnir, gröf og spár munu gagna kennara vel til að fylgjast með hvernig áfanginn gengur í heild svo hann geti gripið inn snemma ef betur getur gengið. Utanhald um mætingu getur síðan hjálpað ef kennara finnst nauðsynlegt að minna nemendur á mætingu varðandi próftökurétt eða breyta dæmatímum við lok annar svo fleiri geti mætt. Einnig getur hann þá borið saman fyrrverandi ár til að sjá hvernig mismunandi kennsluhættir hafa áhrif á frammistöðu nemenda.
+
+Þetta er ólíkt núverandi kerfi sem heldur utan um einkunnir nemenda á mörgum mismunandi forritum, s.s. Canvas, Gradescope o.fl. Einnig sér núverandi kerfi ekki um mætingu nemenda (svo hún sé sýnileg þeim) nema prófessor velji það sérstaklega. Engin gröf eru heldur að finna, né meðaleinkunnir eða fleir nánari gögn um einkunnir. Engar spár eru til staðar heldur. Okkar kerfi er byggt til að breyta þessu.
+
 ### 1.6 Viðskiptaáhætta
 
 
