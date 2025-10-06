@@ -70,6 +70,31 @@ product features and quality characteristics that will enable it to provide thos
 include every possible feature that any potential customer category might conceivably want some day.
 Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
 
+Fyrsta útgáfa *Nemendakerfis fyrir námsmat* (útgáfa 1.0) leggur áherslu á einfalt, stöðugt og notendavænt kerfi sem tryggir áreiðanleika og gagnsæi í námsmati. Markmið fyrstu útgáfu er að veita bæði nemendum og kennurum kjarna af gagnlegum virkni áður en flóknari eiginleikar eru þróaðir.
+
+**Innan umfangs (In Scope):**
+- **Innskráning og auðkenning:** Notendur skrá sig inn með skólareikningi og fá öruggan aðgang að eigin gögnum.  
+- **Verkefnaskil:** Nemendur geta hlaðið upp verkefnum (t.d. PDF, DOCX) og fengið staðfestingu á móttöku.  
+- **Einkunnaskráning:** Kennarar geta fært inn einkunnir og skrifað endurgjöf sem tengist hverju verkefni.  
+- **Yfirlit yfir námsframvindu:** Nemendur geta séð yfirlit yfir einkunnir, vægi og meðaltöl í einu viðmóti.  
+- **Yfirlit kennara:** Kennarar fá yfirsýn yfir verkefnaskil, hópaframvindu og meðaltöl.  
+- **Öryggi og gagnavarsla:** Kerfið tryggir trúnað og rétt aðgangsheimild notenda.  
+
+**Utan umfangs (Out of Scope):**
+- Sjálfvirk einkunnagjöf eða prófakerfi.  
+- Samþætting við ytri kerfi (Inna, Canvas, Moodle o.fl.).  
+- Ítarleg tölfræðigreining eða gervigreindargreining á árangri.  
+- Sjálfvirkar áminningar eða tölvupóstsendingar.  
+- Sérsniðnar námsáætlanir eða viðbótarviðmót.  
+
+**Áherslur og forgangsröðun:**
+- **Drifkraftur:** Gagnsæi og einfaldleiki í notkun.  
+- **Takmörkun:** Fjárhagsrammi og sex mánaða þróunartími.  
+- **Frjálsleiki:** Fjöldi og útfærsla viðbótarfídusa getur þróast í seinni útgáfum.  
+
+Markmiðið með útgáfu 1.0 er að afhenda *Minimum Viable Product (MVP)* sem eykur skilvirkni, dregur úr villum í einkunnaskráningu og byggir traustan grunn fyrir áframhaldandi þróun.
+
+
 ### 2.3 Takmarkanir og útilokanir
 
 
@@ -90,7 +115,22 @@ Focus on those features and product characteristics  that will provide the most 
 - conformance to current standards or regulations	
 - improved usability or reduced frustration level compared to current applications
 ]
-Setjið gjarnan upp í töflu sbr námsefnið 
+Setjið gjarnan upp í töflu sbr námsefnið
+
+#### Hagsmunaaðili: Nemendur
+
+| Þáttur | Lýsing |
+|--------|--------|
+| **Major Value (Helsti ávinningur)** | Fá betri yfirsýn yfir námsframvindu sína, sjá vægi verkefna og fá endurgjöf kennara á einum stað. |
+| **Attitudes (Viðhorf)** | Almennt jákvæðir gagnvart nýjum lausnum ef þær eru einfaldar og aðgengilegar. Þeir missa þó traust fljótt ef kerfið er hægvirkt eða flókið. |
+| **Major Interests (Helstu áherslur)** | Einfalt viðmót, skjót endurgjöf, sýn á meðaltöl og vægi einkunna, aðgengi á síma og tölvu. |
+| **Constraints (Takmarkanir)** | Takmarkaður tími og tæknifærni. Kerfið þarf að vera á íslensku, virka á snjalltækjum og vera auðvelt í notkun. |
+
+**Samantekt:**  
+Nemendur eru helsti notendahópur og lykilhagsmunaaðili í þróun kerfisins.  
+Kerfið þarf að mæta væntingum þeirra um áreiðanleika, einfaldleika og gagnsæi í námsmati.  
+Ánægja þessa hóps hefur bein áhrif á árangur viðskiptamarkmiða verkefnisins og mótar framtíðarþróun kerfisins.
+
 
 
 ### 3.2 Forgangsröðun verkefnis 
