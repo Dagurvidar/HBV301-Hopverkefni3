@@ -1,10 +1,10 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 7, Dagur Ingi Viðar og Stefán Steinar Guðlaugsson 
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Nemendakerfi fyrir námsmat
 
 
 ## Efnisyfirlit 
