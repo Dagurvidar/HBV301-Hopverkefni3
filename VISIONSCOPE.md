@@ -1,7 +1,7 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-Hópur 7, Dagur Ingi Viðar og Stefán Steinar Guðlaugsson 
+Hópur 7. Dagur Ingi Viðar, Stefán Steinar Guðlaugsson.
 
 ## Heiti kerfis
 Nemendakerfi fyrir námsmat
